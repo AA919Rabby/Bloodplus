@@ -1,48 +1,68 @@
-# BloodPlus - Blood Donation App
+# Bloodplus - Blood Donation App
+A complete Blood Donation Mobile Application built with Flutter and Firebase.
 
-A comprehensive Blood Donation management application built with Flutter and Firebase. This app facilitates real-time blood requests, donor searches, and user profile management.
-
----
+This app allows users to find donors, manage blood requests, and coordinate donations efficiently with a clean and user-friendly interface.
 
 # Screenshots
+<img src="130_1x_shots_so.png" alt="Screenshot 1" width="300"/>
 
-### 🛡️ Onboarding & Authentication
-| Splash Screen | Login Screen | 
-|:---:|:---:|
-| <img src="946_1x_shots_so.png" width="300"/> | <img src="510_1x_shots_so.png" width="300"/> |
+<img src="185_1x_shots_so.png" alt="Screenshot 2" width="300"/>
 
-### 🩸 Core Features
-| Home (Light Mode) | Home (Dark Mode) | Find Donors |
-|:---:|:---:|:---:|
-| <img src="555_1x_shots_so.png" width="300"/> | <img src="612_1x_shots_so.png" width="300"/> | <img src="130_1x_shots_so.png" width="300"/> |
+<img src="240_1x_shots_so.png" alt="Screenshot 3" width="300"/>
 
-### 📝 Requests & Profile
-| Post Donation Request | Edit Profile | Delete Account |
-|:---:|:---:|:---:|
-| <img src="949_1x_shots_so.png" width="300"/> | <img src="240_1x_shots_so.png" width="300"/> | <img src="288_1x_shots_so.png" width="300"/> |
----
+<img src="288_1x_shots_so.png" alt="Screenshot 4" width="300"/>
+
+<img src="432_1x_shots_so.png" alt="Screenshot 5" width="300"/>
+
+<img src="507_1x_shots_so.png" alt="Screenshot 6" width="300"/>
+
+<img src="510_1x_shots_so.png" alt="Screenshot 7" width="300"/>
+
+<img src="546_1x_shots_so.png" alt="Screenshot 8" width="300"/>
+
+<img src="555_1x_shots_so.png" alt="Screenshot 9" width="300"/>
+
+<img src="612_1x_shots_so.png" alt="Screenshot 10" width="300"/>
+
+<img src="946_1x_shots_so.png" alt="Screenshot 11" width="300"/>
+
+<img src="949_1x_shots_so.png" alt="Screenshot 12" width="300"/>
 
 # Demo Video
-📺 **Watch the full demo here:** [https://youtu.be/ACfAqaMOsQY](https://youtu.be/ACfAqaMOsQY)
+Youtube:  https://youtu.be/ACfAqaMOsQY?si=HEOxVxG65aHuY6sL
 
----
+# Features
+User Authentication (Login / Register)
 
-# Key Features
-* **Dual Theme Support:** Seamlessly switch between Light and Dark modes.
-* **Real-time Requests:** Post emergency blood requirements using Firebase Firestore.
-* **Donor Search:** Filter donors by location and blood group.
-* **Secure Auth:** Firebase Authentication for user data protection.
-* **Communication:** Integrated **URL Launcher** for one-tap calling and messaging to donors.
-* **Profile Management:** Custom avatars and account deletion options.
+Blood Donor Search & Category Filter
+
+Request Management
+
+Donor Profiles
+
+Real-time Updates
+
+Firebase Integration
+
+Clean & Responsive UI
 
 # Tech Stack
-* **Frontend:** Flutter (Dart)
-* **State Management:** GetX
-* **Backend:** Firebase (Auth, Firestore)
-* **UI Components:** Google Fonts, Marquee, Curved Navigation Bar
+Flutter
+
+Dart
+
+Firebase Authentication
+
+Cloud Firestore
+
+GetX (State Management)
+
+Google Fonts
 
 # Author
-**Rabby Khan** Flutter Developer
+**Rabby Khan**
 
----
-⭐ **If you find this project helpful, please give it a star!**
+Flutter Developer
+
+# Show Your Support
+If you like this project, please give it a ⭐ on GitHub!
