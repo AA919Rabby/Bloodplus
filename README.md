@@ -9,18 +9,17 @@ A comprehensive Blood Donation management application built with Flutter and Fir
 ### 🛡️ Onboarding & Authentication
 | Splash Screen | Login Screen | 
 |:---:|:---:|
-| <img src="130_1x_shots_so.png" width="300"/> | <img src="185_1x_shots_so.png" width="300"/> |
+| <img src="946_1x_shots_so.png" width="300"/> | <img src="510_1x_shots_so.png" width="300"/> |
 
 ### 🩸 Core Features
 | Home (Light Mode) | Home (Dark Mode) | Find Donors |
 |:---:|:---:|:---:|
-| <img src="240_1x_shots_so.png" width="300"/> | <img src="288_1x_shots_so.png" width="300"/> | <img src="432_1x_shots_so.png" width="300"/> |
+| <img src="555_1x_shots_so.png" width="300"/> | <img src="612_1x_shots_so.png" width="300"/> | <img src="130_1x_shots_so.png" width="300"/> |
 
 ### 📝 Requests & Profile
 | Post Donation Request | Edit Profile | Delete Account |
 |:---:|:---:|:---:|
-| <img src="507_1x_shots_so.png" width="300"/> | <img src="510_1x_shots_so.png" width="300"/> | <img src="546_1x_shots_so.png" width="300"/> |
-
+| <img src="949_1x_shots_so.png" width="300"/> | <img src="240_1x_shots_so.png" width="300"/> | <img src="288_1x_shots_so.png" width="300"/> |
 ---
 
 # Demo Video
